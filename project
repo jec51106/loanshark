@@ -1,4 +1,0 @@
-loan_amount = float(input("Enter total loan amount ($): "))
-down_payment = float(input("Enter down payment ($): "))
-credit_score = int(input("Enter your credit score: "))
-years = int(input("Enter loan term (in years): "))
